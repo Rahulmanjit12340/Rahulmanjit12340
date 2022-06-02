@@ -8,3 +8,5 @@
 Rahulmanjit12340/Rahulmanjit12340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Global stable Miui 13.5 and 12
+. 0.5.9.0 update new android 12 community rom
